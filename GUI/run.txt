@@ -1,0 +1,2 @@
+javac -cp ../lib/*; logIn
+javac -cp ../lib/*; gui_ad
